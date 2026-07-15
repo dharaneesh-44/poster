@@ -103,9 +103,8 @@ Included posters:
 🎨 UI/UX & Graphic Designer
 
 - 🌐 Portfolio: https://dharaneeshwaran-designer.netlify.app
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
+- 💼 LinkedIn: https:https://www.linkedin.com/in/dharaneeshwaran-m-a4a7792a3/
+- 💻 GitHub: https:https://github.com/dharaneesh-44
 ---
 
 ## ⭐ Support
